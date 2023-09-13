@@ -1,6 +1,6 @@
-# OpenCore EFI for Intel Hackintosh (macOS 10.13 - 13.0)
+# OpenCore EFI for Intel Hackintosh (macOS 10.13 - 13.5)
 
-![alt text](https://github.com/gabrielmaialva33/efi-opencore-b85/blob/master/.github/images/img.png?raw=true)
+![alt text](https://github.com/gabrielmaialva33/efi-opencore-b85/blob/main/.github/assets/img.png?raw=true)
 
 ## Specification
 
