@@ -17,6 +17,8 @@
 **macOS version**: 14.0 (23A344)
 **OpenCore version**: 0.9.6
 
+#### I'm using OpenCore Legacy Patcher to install iGPU drivers
+
 ## Credits
 
 - [[Bootloader] OpenCore](https://github.com/acidanthera/OpenCorePkg)
