@@ -13,7 +13,7 @@
 | GPU           | Intel HD Graphics 4600                     |
 | OS Disk (HDD) | ST1000LX015-1U7172 (1TB)                   |
 
-**macOS version**: 13.5.1 (22G90)
+**macOS version**: 14.0 (23A344)
 **OpenCore version**: 0.9.6
 
 ## Credits
@@ -34,6 +34,7 @@
 - Big Sur (10.16/11.4)
 - Monterey (12.1)
 - Ventura (13.0/13.5)
+- Sonoma (14.0)
 
 ## How to use
 
