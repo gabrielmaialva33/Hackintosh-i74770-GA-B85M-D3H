@@ -1,6 +1,6 @@
-# OpenCore EFI for Intel Hackintosh (macOS 10.13 - 13.5)
+# OpenCore EFI for Intel Hackintosh (macOS 10.13 - 14.0)
 
-![alt text](https://github.com/gabrielmaialva33/efi-opencore-b85/blob/main/.github/assets/img.png?raw=true)
+![alt text](https://github.com/gabrielmaialva33/efi-opencore-b85/blob/main/.github/assets/img2.png?raw=true)
 
 ## Specification
 
@@ -12,6 +12,7 @@
 | Audio Chipset | ALC892                                     |
 | GPU           | Intel HD Graphics 4600                     |
 | OS Disk (HDD) | ST1000LX015-1U7172 (1TB)                   |
+| macOS         | 14.0 (23A344)                              |
 
 **macOS version**: 14.0 (23A344)
 **OpenCore version**: 0.9.6
